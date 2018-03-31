@@ -1,5 +1,6 @@
 # Brandon-Bot
-An automated bot that does many things for Brandon.
+<img src="/share/avatar/avatar.svg" alt="Brandon-Bot" title="Brandon-Bot" width="128px" height="128px" />
+An automated bot that does many things for Brandon. 
 
 ## Phase 1
 - [ ] [Slack bot][1]
