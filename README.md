@@ -1,5 +1,8 @@
-# Brandon-Bot
-<img src="/share/avatar/avatar.svg" alt="Brandon-Bot" title="Brandon-Bot" width="128px" height="128px" />
+<a href="https://github.com/demosdemon/brandon-bot">
+  <img src="/share/avatar/head.svg" alt="Brandon-Bot" title="Brandon-Bot" width="128px" />
+  <img src="/share/avatar/name.svg" alt="Brandon-Bot" title="Brandon-Bot" height="128px" />
+</a>
+
 An automated bot that does many things for Brandon. 
 
 ## Phase 1
