@@ -7,11 +7,12 @@ name = "pypi"
 django = "*"
 gunicorn = "*"
 django-heroku = "*"
+requests = "*"
 
 [dev-packages]
 honcho = "*"
-pylint = "*"
-"autopep8" = "*"
+"flake8" = "*"
+yapf = "*"
 
 [requires]
 python_version = "3.6"
